@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "A beautiful, responsive Todo application with Kotlin, Jetpack Compose, and local Room DB persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
